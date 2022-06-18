@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Oğuzhan Deniz
 - 💻 I’m currently learning Swift and Php
 - 💬 Ask me about Algorithms , Data Structures , C Programming 
-- Personel Website: oguzhandeniz.github.io
+- Personel Website: <a href="https://oguzhandeniz.github.io" target="blank">oguzhandeniz.github.io</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhandeniz&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhandeniz" /></p>
 <div align="center">
