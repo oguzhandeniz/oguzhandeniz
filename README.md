@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Oğuzhan Deniz
-- 💻 I’m currently learning Swift and Php
+- 💻 I’m currently learning Swift
 - 💬 Ask me about Algorithms , Data Structures , C Programming 
 - Personel Website: <a href="https://oguzhandeniz.github.io" target="_blank">oguzhandeniz.github.io</a>
 
