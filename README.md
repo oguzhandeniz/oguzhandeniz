@@ -37,7 +37,7 @@
     <a href="https://www.php.net" target="_blank"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
    </a>
-   <a href="https://www.php.net" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="php" width="50" height="50"/>
+   <a href="https://www.mysql.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
    </a>
 </p>
