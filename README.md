@@ -25,6 +25,9 @@
     <a href="https://www.swift.org" target="_blank"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/> 
    </a>
+   <a href="https://www.figma.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50" /> 
+   </a>
     <a href="https://www.cprogramming.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
    </a>
@@ -34,9 +37,7 @@
     <a href="https://www.php.net" target="_blank"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
    </a>
-   <a href="https://www.figma.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50" /> 
+   <a href="https://www.php.net" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="php" width="50" height="50"/>
    </a>
-    
-
 </p>
