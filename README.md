@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/OguzhanDnz1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhandeniz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/oğuzhan-deniz-47b605193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halimcanocakli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/oguzhandeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="halimcanocakli" height="40" width="50" /></a>
-  <a href="https://stackoverflow.com/users/18223695/oğuzhan-deniz?tab=profile" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="halimcanocakli" height="40" width="135" /></a>
+<a href="https://www.linkedin.com/in/oğuzhan-deniz-47b605193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhandeniz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/oguzhandeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oguzhandeniz" height="40" width="50" /></a>
+  <a href="https://stackoverflow.com/users/18223695/oğuzhan-deniz?tab=profile" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="oguzhandeniz" height="40" width="135" /></a>
   
 
 <h3 align="left">Languages and Tools:</h3>
