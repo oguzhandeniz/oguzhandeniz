@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Oğuzhan Deniz
-- 💻 I’m currently learning .NET
+- 💻 I’m currently learning Pyhton and TypeScript
 - 💬 Ask me about Algorithms , Data Structures , C Programming 
 - Personel Website: <a href="https://oguzhandeniz.github.io" target="_blank">oguzhandeniz.github.io</a>
 
